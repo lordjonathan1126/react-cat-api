@@ -1,8 +1,9 @@
-# React + Vite
+# Cat Breed Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and accessible React application that allows users to search for various cat breeds, view detailed information, and manage their search history. Designed with user experience in mind, this project demonstrates fundamental React concepts, state management, API integration, and accessibility best practices.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    •	Search Functionality: Users can search for cat breeds using the search bar.
+    •	Detailed Modal: Click on a breed card to view detailed information in a modal.
+    •	Search History: Maintains a history of search terms with options to delete individual entries or clear all.
+    •	Responsive Design: Optimized for desktops, tablets, and mobile devices.
+    •	Accessibility: Enhanced with ARIA labels.
